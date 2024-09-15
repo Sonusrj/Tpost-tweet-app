@@ -9,9 +9,6 @@
 - 🔒 **Security**: The app utilizes Django's CSRF protection and ORM to ensure a secure environment.
 - 💻 **Responsive Design**: Built with HTML, CSS, and Bootstrap for a seamless experience across devices.
 
-
-Here’s the updated installation section for your README based on the link you provided:
-
 ---
 
 ## ⚙️ Installation and Setup
@@ -52,8 +49,6 @@ Here’s the updated installation section for your README based on the link you 
 5. Access the app at `http://127.0.0.1:8000/`.
 
 ---
-
-This updated installation section reflects the correct repository link (`Tpost-tweet-app`) and the necessary steps for setting up the project.
 
 ## 🛠️ Usage
 
